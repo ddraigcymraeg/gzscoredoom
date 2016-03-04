@@ -1,0 +1,11 @@
+CUBEA0
+B0
+C0
+
+Cubed1
+d2d8
+d3d7
+d4d6
+d5
+
+BHRT
